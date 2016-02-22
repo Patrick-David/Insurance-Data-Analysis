@@ -1,2 +1,0 @@
-# Prudential
-Insurance Data Notebook
