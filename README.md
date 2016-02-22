@@ -12,5 +12,5 @@ The Challenge...
 
 Using a data set provided by Prudential Insurance as part of their recent Kaggle Challenge https://www.kaggle.com/c/prudential-life-insurance-assessment/download/train.csv.zip), we will apply a number data science techniques to visualise, better understand, statistically analyse and prepare the data for prediction. 
 
-The focus of this script will not be on outright 'predictive performance', but rather we will take a more 'data science'/ research oriented approach, focusing on model robustness and data understanding.
+The focus of this script will not be on outright *'predictive performance'*, but rather we will take a more *'data science'* / research oriented approach, focusing on model robustness and data understanding.
 
